@@ -4,6 +4,7 @@ div{
     justify-content: center;
     align-items: center;
     margin-top: 270px;
+    text-align: center;
 }
 button{
     padding: 15px 50px;
