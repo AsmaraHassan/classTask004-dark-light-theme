@@ -1,0 +1,14 @@
+
+ .center-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center the element */
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border:none;
+    border-radius: 10px;
+    font-size: 20px;
+    
+}
