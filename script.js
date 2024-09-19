@@ -1,2 +1,5 @@
-document.getElem(center-button)
-onclick="alert('Uncle waving at you!')"
+var mode = document.getElementById(center-button)
+mode.innerHTML ='Night-mode';
+ var changecolor=document.getElementById(center-button).addEventListener('click' , function(){
+
+})
