@@ -6,11 +6,11 @@ var colorchnager =  document.getElementById('btn').addEventListener('click', fun
         document.body.style.backgroundColor = 'white';
         button.style.backgroundColor = 'black';
         button.style.color = 'white';
-        button.innerHTML = 'Day';
+        button.innerHTML = 'Night';
     } else {
         document.body.style.backgroundColor = 'black';
         button.style.backgroundColor = 'white';
         button.style.color = 'black';
-        button.innerHTML = 'Night';
+        button.innerHTML = 'Day';
     }
 })
